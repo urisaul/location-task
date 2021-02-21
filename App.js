@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import MapDisplay from './MapDisplay';
 import React, { useEffect, useState } from 'react';
